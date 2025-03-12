@@ -1,6 +1,3 @@
-# AboutMe
-
-
 # 👋 Hello World! I'm Gifty Arthur  
 
 ### 🚀 About Me  
