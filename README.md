@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Gifty Arthur  
+# 👋 Hello World! I'm Gifty Arthur Danquah
 
 ### 🚀 About Me  
 I'm a **data analyst, cloud enthusiast, and UI/UX designer** passionate about creating impactful solutions at the intersection of **technology, data, and design**. With expertise in **Python, SQL, Power BI, and cloud platforms (AWS, Azure, GCP)**, I enjoy solving complex problems, optimizing workflows, and crafting intuitive user experiences.  
